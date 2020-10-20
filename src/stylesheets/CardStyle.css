@@ -1,0 +1,19 @@
+.card-style{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20;
+}
+
+form {
+    margin-top: 10vh;
+}
+.navbar-nav > li {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+.navbar-nav > li:hover {
+    background-color: #eee;
+    border-radius: 4px;
+}
